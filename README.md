@@ -1,7 +1,7 @@
 # UFood – Restaurant Discovery and Sharing App  
 **(English version follows below)**
 
-> Ce projet a été réalisé à l’automne 2023 dans le cadre du cours **GLO-3102 – Développement d'applications Web**, sous la supervision du professeur **Vincent SÉGUIN**.  
+> Ce projet a été réalisé à l’hiver 2024 dans le cadre du cours **GLO-3102 – Développement d'applications Web**, sous la supervision du professeur **Vincent SÉGUIN**.  
 > La note finale attribuée au projet est de **96 %**.
 
 ## Description
