@@ -10,6 +10,15 @@ UFood est une application web permettant aux utilisateurs de découvrir de nouve
 
 Développée en respectant les principes de modularité, de responsivité et d’expérience utilisateur fluide, elle a été testée sur les formats desktop, tablette et mobile.
 
+## Technologies utilisées
+
+- Vue.js (framework principal)
+- HTML5/CSS3/JavaScript
+- Axios pour les appels API
+- Vue Router pour la navigation
+- Leaflet.js pour la carte interactive
+- API REST sécurisée fournie par le cours
+
 ## Fonctionnalités clés
 
 - 🔍 **Recherche de restaurants** avec filtres par prix et genre
@@ -22,14 +31,6 @@ Développée en respectant les principes de modularité, de responsivité et d�
 - 🤝 **Réseau social léger** : suivre/désabonner, visualiser profils d'autres usagers
 - 🚀 **Fonctionnalités avancées** (ex : suggestions, feed Instagram, gravatar...)
 
-## Technologies utilisées
-
-- Vue.js (framework principal)
-- HTML5/CSS3/JavaScript
-- Axios pour les appels API
-- Vue Router pour la navigation
-- Leaflet.js pour la carte interactive
-- API REST sécurisée fournie par le cours
 
 ## Lancement de l'application
 
@@ -49,6 +50,15 @@ UFood is a responsive web application that allows users to discover new restaura
 
 Developed with a focus on modularity, responsiveness, and a smooth user experience, UFood is optimized for desktop, tablet, and mobile use.
 
+## Technologies Used
+
+- Vue.js (main framework)
+- HTML5 / CSS3 / JavaScript
+- Axios for API communication
+- Vue Router for page navigation
+- Leaflet.js for map integration
+- Secure REST API provided by the course
+
 ## Key Features
 
 - 🔍 **Restaurant search** with filtering by price range and cuisine
@@ -61,14 +71,6 @@ Developed with a focus on modularity, responsiveness, and a smooth user experien
 - 🤝 **Light social features**: follow/unfollow users and view their profiles
 - 🚀 **Advanced features** (e.g., Instagram feed, gravatar, restaurant suggestions...)
 
-## Technologies Used
-
-- Vue.js (main framework)
-- HTML5 / CSS3 / JavaScript
-- Axios for API communication
-- Vue Router for page navigation
-- Leaflet.js for map integration
-- Secure REST API provided by the course
 
 ## How to Run
 
