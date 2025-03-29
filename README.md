@@ -41,7 +41,7 @@ Développée en respectant les principes de modularité, de responsivité et d�
 
 **(French version available above)**
 
-> This project was developed in Fall 2023 as part of the course **GLO-3102 – Web Application Development**, under the supervision of **Professor Vincent SÉGUIN**.  
+> This project was developed in Winter 2024 as part of the course **GLO-3102 – Web Application Development**, under the supervision of **Professor Vincent SÉGUIN**.  
 > The final grade awarded for this project was **96%**.
 
 ## Description
